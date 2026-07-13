@@ -20,8 +20,6 @@ A brand-new Ark Survival Ascension server manager with a modern interface, compl
 
 ## 🖼️ Screenshots
 
-> Upload your screenshot files to this repository, then replace the filenames below.
-
 ![Main Interface](./screenshots/main-interface.png)
 
 ![Server Settings](./screenshots/server-settings.png)
